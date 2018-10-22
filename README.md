@@ -1,5 +1,5 @@
 ## MONITORIA CUCUMBER
 
 Monitores: 
-• Antonio Rodrigues
-• Joismar Braga
+Antonio Rodrigues
+Joismar Braga
